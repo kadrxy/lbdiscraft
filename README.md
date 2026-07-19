@@ -6,7 +6,7 @@
 
 ### Seamless **Discord ↔ Minecraft** account linking, security &amp; administration — in one desktop app.
 
-![Version](https://img.shields.io/badge/version-1.0.1-5865F2?style=for-the-badge)
+![Version](https://img.shields.io/badge/version-1.0.2-5865F2?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![License](https://img.shields.io/badge/license-Proprietary-E23B3B?style=for-the-badge)
 ![Made by](https://img.shields.io/badge/Kadrxy%20Studios-0b0b0f?style=for-the-badge)
