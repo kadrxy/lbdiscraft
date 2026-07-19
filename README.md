@@ -86,6 +86,29 @@ LbDisCraft keeps itself up to date. On every launch a small updater window check
 
 ---
 
+## Built by
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/CanBye">
+        <img src="https://github.com/CanBye.png" width="64" height="64" style="border-radius:50%" alt="Lorant One" /><br />
+        <sub><b>CanBye</b></sub>
+      </a><br />
+      <sub>LbDevz founder</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/kadrxy">
+        <img src="https://github.com/kadrxy.png" width="64" height="64" style="border-radius:50%" alt="Kadrxy" /><br />
+        <sub><b>Kadrxy</b></sub>
+      </a><br />
+      <sub>Developer</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🪪 License
 
 **Proprietary — © Kadrxy Studios. All rights reserved.**
